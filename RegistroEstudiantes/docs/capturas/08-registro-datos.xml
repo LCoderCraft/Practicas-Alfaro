@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="estudiantes_json">[{&quot;matricula&quot;:&quot;20234567&quot;,&quot;nombre&quot;:&quot;Juan Perez Lopez&quot;,&quot;carrera&quot;:&quot;Ingenier├¡a en Sistemas&quot;,&quot;turno&quot;:&quot;Vespertino&quot;,&quot;estatus&quot;:&quot;Inactivo&quot;}]</string>
+</map>

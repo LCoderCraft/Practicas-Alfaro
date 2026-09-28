@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="ultima_matricula">20234567</string>
+    <string name="ultimo_nombre">Juan Perez Lopez</string>
+    <boolean name="ultimo_activo" value="false" />
+    <string name="ultima_carrera">Ingenier├¡a en Sistemas</string>
+    <string name="ultimo_turno">Vespertino</string>
+</map>
