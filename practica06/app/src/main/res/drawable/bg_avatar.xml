@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Fondo circular para el avatar del contacto.
+    El color real lo aplica el Adapter con backgroundTint para que cada
+    item pueda usar el color de su tema.
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#FFFFFF" />
+</shape>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+        Parent Material3: aporta los atributos que usa item_contacto.xml
+        (?attr/colorOnSurfaceVariant, ?attr/textAppearanceTitleMedium, etc).
+        El tema de Compose se define aparte en ui/theme/Theme.kt.
+    -->
+    <style name="Theme.Practica06" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
