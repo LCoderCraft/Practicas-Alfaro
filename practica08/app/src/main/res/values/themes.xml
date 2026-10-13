@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- El tema de Compose se define aparte en ui/theme/Theme.kt. -->
+    <style name="Theme.Practica08" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
