@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- El tema real de la app se define con Material 3 en ui/theme/Theme.kt. -->
+    <style name="Theme.Practica12" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/pokemon_cream</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
