@@ -18,6 +18,7 @@ App nativa Android en Kotlin + Jetpack Compose que configura y dispara notificac
 
 ## Evidencia
 - `docs/capturas/` - capturas de permiso, token, notificacion local, bandeja y deep link.
+- `docs/capturas/demo15.gif` - video demostrativo de notificacion local y deep link.
 - `docs/Actividad_13.2_Practica15_Notificaciones_Locales_y_Push.pdf` - documento de la practica.
 
 ## Configuracion Firebase
@@ -25,3 +26,6 @@ App nativa Android en Kotlin + Jetpack Compose que configura y dispara notificac
 2. Registrar app con package `com.example.practica15`.
 3. Descargar `google-services.json` y colocarlo en `app/`.
 4. En Firebase Console > Messaging, enviar mensaje de prueba usando el token mostrado en la app.
+
+
+
